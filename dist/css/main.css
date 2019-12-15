@@ -261,8 +261,8 @@
 }
 
 .about footer {
-  -webkit-transform: rotate(90deg) translate(-5rem, -6rem);
-          transform: rotate(90deg) translate(-5rem, -6rem);
+  -webkit-transform: rotate(90deg) translate(-7rem, -5.5rem);
+          transform: rotate(90deg) translate(-7rem, -5.5rem);
 }
 
 .projects {
@@ -376,8 +376,8 @@
 }
 
 .projects footer {
-  -webkit-transform: rotate(90deg) translate(-5rem, -6rem);
-          transform: rotate(90deg) translate(-5rem, -6rem);
+  -webkit-transform: rotate(90deg) translate(-7rem, -5.5rem);
+          transform: rotate(90deg) translate(-7rem, -5.5rem);
 }
 
 .contact {
@@ -411,6 +411,7 @@
       grid-template-columns: 1fr;
   grid-gap: 2rem;
   font-size: 1.5rem;
+  padding-left: 0.5rem;
 }
 
 .contact .social-icons {
@@ -511,7 +512,7 @@ main {
 
 main .social-icons {
   position: fixed;
-  bottom: 1rem;
+  bottom: 2rem;
   left: 1rem;
 }
 
