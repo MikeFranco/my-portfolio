@@ -261,8 +261,8 @@
 }
 
 .about footer {
-  -webkit-transform: rotate(90deg) translate(-4rem, -5rem);
-          transform: rotate(90deg) translate(-4rem, -5rem);
+  -webkit-transform: rotate(90deg) translate(-5rem, -6rem);
+          transform: rotate(90deg) translate(-5rem, -6rem);
 }
 
 .projects {
