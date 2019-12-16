@@ -433,6 +433,7 @@
     height: 100%;
     background: transparent;
     text-align: right;
+    padding-top: 1vh;
   }
   .nav .menu-nav__item {
     display: inline;
